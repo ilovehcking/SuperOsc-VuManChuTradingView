@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "apt install python3-distutils"
+  }
+}
